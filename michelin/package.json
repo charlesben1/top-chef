@@ -1,0 +1,26 @@
+{
+  "name": "michelin",
+  "version": "0.0.1",
+  "description": "> Eat well and cheaper than usually",
+  "main": "index.js",
+  "author": "",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesben1/top-chef.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlesben1/top-chef/issues"
+  },
+  "homepage": "https://github.com/charlesben1/top-chef#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.83.0"
+  }
+}
