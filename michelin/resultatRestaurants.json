@@ -1,0 +1,254 @@
+[
+    {
+        "adress": "2 avenue de la Libération",
+        "title": "Frédéric Doucet",
+        "postalcode": "71120",
+        "locality": "Charolles",
+        "country": "France"
+    },
+    {
+        "adress": "51 Rue Jouffroy-d'Abbans",
+        "title": "Agapé",
+        "postalcode": "75017",
+        "locality": "Paris 17",
+        "country": "France"
+    },
+    {
+        "adress": "10 rue Hôtel-Dieu",
+        "title": "Le Jardin des Remparts",
+        "postalcode": "21200",
+        "locality": "Beaune",
+        "country": "France"
+    },
+    {
+        "adress": "Route de Suresnes",
+        "title": "Le Pré Catelan",
+        "postalcode": "75016",
+        "locality": "Paris",
+        "country": "France"
+    },
+    {
+        "adress": "1 Place Notre-Dame",
+        "title": "Auberge de l'Île Barbe",
+        "postalcode": "69009",
+        "locality": "Lyon 09",
+        "country": "France"
+    },
+    {
+        "adress": "5 r. M. -Berthelot",
+        "title": "Aigue Marine",
+        "postalcode": "22220",
+        "locality": "Tréguier",
+        "country": "France"
+    },
+    {
+        "adress": "39 Avenue George V",
+        "title": "Le 39V",
+        "postalcode": "75008",
+        "locality": "Paris 08",
+        "country": "France"
+    },
+    {
+        "adress": "2250 route cézanne D17",
+        "title": "Le Saint-Estève",
+        "postalcode": "13100",
+        "locality": "Le Tholonet",
+        "country": "France"
+    },
+    {
+        "adress": "31 Avenue Franklin Delano Roosevelt",
+        "title": "Le Clarence",
+        "postalcode": "75008",
+        "locality": "Paris 08",
+        "country": "France"
+    },
+    {
+        "adress": "110 Galerie de Valois - Jardin du Palais Royal",
+        "title": "Restaurant du Palais Royal",
+        "postalcode": "75001",
+        "locality": "Paris 01",
+        "country": "France"
+    },
+    {
+        "adress": "17 r. de la Poissonnerie",
+        "title": "JY'S",
+        "postalcode": "68000",
+        "locality": "Colmar",
+        "country": "France"
+    },
+    {
+        "adress": "13 Avenue des Mateirons",
+        "title": "Les Fresques",
+        "postalcode": "74500",
+        "locality": "Évian-les-Bains",
+        "country": "France"
+    },
+    {
+        "adress": "10 boulevard du Maréchal-Juin",
+        "title": "Les Pêcheurs",
+        "postalcode": "06600",
+        "locality": "Antibes",
+        "country": "France"
+    },
+    {
+        "adress": "13 rue des Beaux-Arts",
+        "title": "Le Restaurant",
+        "postalcode": "75006",
+        "locality": "Paris 06",
+        "country": "France"
+    },
+    {
+        "adress": "80 chemin des Anglais",
+        "title": "La Table de Franck Putelat",
+        "postalcode": "11000",
+        "locality": "Carcassonne",
+        "country": "France"
+    },
+    {
+        "adress": "Hotel du Castellet Route des Hauts du Camp",
+        "title": "Christophe Bacquié",
+        "postalcode": "83330",
+        "locality": "Le Castellet",
+        "country": "France"
+    },
+    {
+        "adress": "12, boulevard Mirabeau",
+        "title": "Fanny Rey & Jonathan Wahid",
+        "postalcode": "13210",
+        "locality": "SAINT REMY DE PROVENCE",
+        "country": "France"
+    },
+    {
+        "adress": "40 Quai de la Plage",
+        "title": "Paul Bocuse",
+        "postalcode": "69660",
+        "locality": "Collonges-au-Mont-d'Or",
+        "country": "France"
+    },
+    {
+        "adress": "1 Avenue du Docteur Jean Laigret",
+        "title": "L'Orangerie du Château",
+        "postalcode": "41000",
+        "locality": "Blois",
+        "country": "France"
+    },
+    {
+        "adress": "Le Moulin de Malfourat",
+        "title": "La Tour des Vents",
+        "postalcode": "24240",
+        "locality": "Monbazillac",
+        "country": "France"
+    },
+    {
+        "adress": "digue de mer",
+        "title": "La Liégeoise",
+        "postalcode": "62930",
+        "locality": "Wimereux",
+        "country": "France"
+    },
+    {
+        "adress": "47 Avenue du Moulin de la Croix",
+        "title": "Paloma",
+        "postalcode": "06250",
+        "locality": "Mougins",
+        "country": "France"
+    },
+    {
+        "adress": "3 pl. Camille-Hostein",
+        "title": "Le Saint-James",
+        "postalcode": "33270",
+        "locality": "BOULIAC",
+        "country": "France"
+    },
+    {
+        "adress": "20 rue du Kelenn",
+        "title": "Patrick Jeffroy",
+        "postalcode": "29660",
+        "locality": "Carantec",
+        "country": "France"
+    },
+    {
+        "adress": "12 rue Royale",
+        "title": "Mère Brazier",
+        "postalcode": "69001",
+        "locality": "LYON",
+        "country": "France"
+    },
+    {
+        "adress": "135 Rue Saint-Dominique",
+        "title": "Le Violon d'Ingres",
+        "postalcode": "75007",
+        "locality": "Paris",
+        "country": "France"
+    },
+    {
+        "adress": "16 Avenue Bugeaud",
+        "title": "Les Tablettes de Jean-Louis Nomicos",
+        "postalcode": "75016",
+        "locality": "Paris",
+        "country": "France"
+    },
+    {
+        "adress": "10 Place Général de Gaulle",
+        "title": "Hostellerie de l'Abbaye de la Celle",
+        "postalcode": "83170",
+        "locality": "La Celle",
+        "country": "France"
+    },
+    {
+        "adress": "Parc naturel régional du Verdon, Chemin de Quinson",
+        "title": "La Bastide de Moustiers",
+        "postalcode": "04360",
+        "locality": "Moustiers-Sainte-Marie",
+        "country": "France"
+    },
+    {
+        "adress": "Avenue Eugène Le Roy",
+        "title": "Le Moulin du Roc",
+        "postalcode": "24530",
+        "locality": "Champagnac-de-Belair",
+        "country": "France"
+    },
+    {
+        "adress": "4 Rue Professeur Pierre Marion",
+        "title": "Têtedoie",
+        "postalcode": "69005",
+        "locality": "Lyon 05",
+        "country": "France"
+    },
+    {
+        "adress": "251 Rue Saint Honoré",
+        "title": "Sur Mesure par Thierry Marx",
+        "postalcode": "75001",
+        "locality": "Paris",
+        "country": "France"
+    },
+    {
+        "adress": "Boulevard de l'Almandin",
+        "title": "L'Almandin",
+        "postalcode": "66750",
+        "locality": "Saint-Cyprien",
+        "country": "France"
+    },
+    {
+        "adress": "2, rue d'Argentine",
+        "title": "Le Relais Bernard Loiseau",
+        "postalcode": "21210",
+        "locality": "Saulieu",
+        "country": "France"
+    },
+    {
+        "adress": "15 Rue Lamennais",
+        "title": "Le Taillevent",
+        "postalcode": "75008",
+        "locality": "Paris",
+        "country": "France"
+    },
+    {
+        "adress": "le bourg",
+        "title": "1217",
+        "postalcode": "69620",
+        "locality": "Bagnols",
+        "country": "France"
+    }
+]
